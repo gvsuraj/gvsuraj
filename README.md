@@ -26,8 +26,7 @@ I'm a passionate coder and problem solver who loves algorithms, data structures,
 
 ---
 
-![Tech GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
+![Tech GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 ---
 
 ### 🚀 Let's Connect
