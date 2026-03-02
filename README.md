@@ -26,7 +26,9 @@ I'm a passionate coder and problem solver who loves algorithms, data structures,
 
 ---
 
-![Hacker GIF](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)---
+![Brain Neurons Thinking](https://cdn.pixabay.com/gif/2025/12/01/22/36/brain-neurons-thinking-mind-think-24669.gif)
+
+---
 
 ### 🚀 Let's Connect
 Feel free to reach out for collaboration, coding challenges, or just a tech chat!
