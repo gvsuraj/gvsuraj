@@ -14,8 +14,8 @@ I'm a passionate coder and problem solver who loves algorithms, data structures,
 ---
 
 ### 🛠 Skills
-- **Languages:** C, Java, Python  
-- **Web Dev:** HTML, CSS, JavaScript,React  
+- **Languages:** C, Java, Python 
+- **Web Dev:** HTML, CSS, JavaScript, React  
 - **Tools & Platforms:** Git, GitHub, VS Code, LeetCode  
 
 ---
@@ -26,7 +26,7 @@ I'm a passionate coder and problem solver who loves algorithms, data structures,
 
 ---
 
-![Brain Neurons Thinking](https://cdn.pixabay.com/gif/2025/12/01/22/36/brain-neurons-thinking-mind-think-24669.gif)
+![Tech GIF](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 
 ---
 
