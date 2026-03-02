@@ -1,3 +1,7 @@
+### Profile
+
+### My Leetcode Stats
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Suraj_gv?theme=unicorn&ext=heatmap)](https://leetcode.com/u/Suraj_gv/)
 ### 🔗 Connect with me
 
